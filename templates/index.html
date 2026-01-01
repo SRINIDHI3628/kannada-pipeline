@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kannada AI Assistant - Real-Time Speech</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 20px;
+    }
+    
+    .container {
+      background: white;
+      padding: 40px;
+      border-radius: 20px;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+      max-width: 600px;
+      width: 100%;
+    }
+    
+    h2 {
+      color: #333;
+      text-align: center;
+      margin-bottom: 30px;
+      font-size: 28px;
+    }
+    
+    .input-container {
+      position: relative;
+    }
+    
+    textarea {
+      width: 100%;
+      padding: 15px;
+      padding-right: 60px;
+      border: 2px solid #ddd;
+      border-radius: 10px;
+      font-size: 16px;
+      resize: vertical;
+      font-family: inherit;
+      transition: border 0.3s;
+      min-height: 100px;
+    }
+    
+    textarea:focus {
+      outline: none;
+      border-color: #667eea;
+    }
+    
+    textarea.listening {
+      border-color: #ff4444;
+      animation: pulse 1.5s infinite;
+    }
+    
+    @keyframes pulse {
+      0%, 100% { border-color: #ff4444; }
+      50% { border-color: #ff8888; }
+    }
+    
+    .mic-button {
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      border: none;
+      background: #2196F3;
+      color: white;
+      font-size: 20px;
+      cursor: pointer;
+      transition: all 0.3s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .mic-button:hover {
+      background: #0b7dda;
+      transform: scale(1.1);
+    }
+    
+    .mic-button.listening {
+      background: #ff4444;
+      animation: micPulse 1s infinite;
+    }
+    
+    @keyframes micPulse {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.15); }
+    }
+    
+    .button-group {
+      text-align: center;
+      margin-top: 20px;
+    }
+    
+    .submit-btn {
+      padding: 15px 40px;
+      border: none;
+      border-radius: 10px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-weight: bold;
+      background: #4CAF50;
+      color: white;
+    }
+    
+    .submit-btn:hover {
+      background: #45a049;
+      transform: translateY(-2px);
+      box-shadow: 0 5px 15px rgba(76, 175, 80, 0.4);
+    }
+    
+    .submit-btn:disabled {
+      background: #ccc;
+      cursor: not-allowed;
+      transform: none;
+    }
+    
+    .status {
+      text-align: center;
+      margin-top: 10px;
+      font-size: 14px;
+      color: #666;
+      min-height: 20px;
+    }
+    
+    .status.listening {
+      color: #ff4444;
+      font-weight: bold;
+    }
+    
+    .answer-section {
+      margin-top: 30px;
+      padding: 20px;
+      background: #f9f9f9;
+      border-radius: 10px;
+      border-left: 4px solid #4CAF50;
+    }
+    
+    h3 {
+      color: #666;
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+    
+    #answer {
+      font-size: 18px;
+      line-height: 1.6;
+      color: #333;
+      min-height: 50px;
+    }
+    
+    audio {
+      width: 100%;
+      margin-top: 15px;
+      display: none;
+    }
+
+    .info-text {
+      text-align: center;
+      font-size: 13px;
+      color: #999;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2> Kannada AI Assistant</h2>
+
+    <div class="input-container">
+      <textarea id="text" rows="4" 
+        placeholder="ಕನ್ನಡದಲ್ಲಿ ಟೈಪ್ ಮಾಡಿ... ಅಥವಾ ಮೈಕ್ ಕ್ಲಿಕ್ ಮಾಡಿ
+Type in Kannada or English... Or click mic to speak"></textarea>
+      <button class="mic-button" id="micBtn" title="Click to start/stop speaking">
+        🎤
+      </button>
+    </div>
+
+    <div class="status" id="status"></div>
+    <div class="info-text">Tip: Click mic and speak continuously - text will appear in real-time</div>
+
+    <div class="button-group">
+      <button class="submit-btn" id="submitBtn">Submit Query</button>
+    </div>
+
+    <div class="answer-section">
+      <h3>Answer:</h3>
+      <p id="answer">Your answer will appear here...</p>
+      <audio id="audio" controls></audio>
+    </div>
+  </div>
+
+  <script>
+    // Global variables
+    let isListening = false;
+    let recognition = null;
+    let finalTranscript = '';
+
+    // Check browser support
+    if ('webkitSpeechRecognition' in window || 'SpeechRecognition' in window) {
+      const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+      recognition = new SpeechRecognition();
+      
+      // Configure recognition
+      recognition.continuous = true;  // Keep listening
+      recognition.interimResults = true;  // Show partial results
+      recognition.lang = 'kn-IN';  // Kannada language
+      
+      // When recognition gets results
+      recognition.onresult = (event) => {
+        let interimTranscript = '';
+        
+        for (let i = event.resultIndex; i < event.results.length; i++) {
+          const transcript = event.results[i][0].transcript;
+          
+          if (event.results[i].isFinal) {
+            finalTranscript += transcript + ' ';
+          } else {
+            interimTranscript += transcript;
+          }
+        }
+        
+        // Update textarea with both final and interim results
+        document.getElementById('text').value = finalTranscript + interimTranscript;
+        document.getElementById('status').textContent = '🎙️ Listening...';
+      };
+      
+      recognition.onerror = (event) => {
+        console.error('Speech recognition error:', event.error);
+        if (event.error === 'no-speech') {
+          document.getElementById('status').textContent = 'No speech detected. Try again.';
+        } else if (event.error === 'not-allowed') {
+          document.getElementById('status').textContent = 'Microphone access denied';
+          stopListening();
+        } else {
+          document.getElementById('status').textContent = 'Error: ' + event.error;
+        }
+      };
+      
+      recognition.onend = () => {
+        if (isListening) {
+          // Restart if still supposed to be listening
+          recognition.start();
+        }
+      };
+    } else {
+      document.getElementById('status').textContent = 'Speech recognition not supported in this browser';
+      document.getElementById('micBtn').disabled = true;
+    }
+
+    // Mic button click
+    document.getElementById('micBtn').addEventListener('click', () => {
+      if (isListening) {
+        stopListening();
+      } else {
+        startListening();
+      }
+    });
+
+    function startListening() {
+      if (!recognition) return;
+      
+      try {
+        finalTranscript = document.getElementById('text').value;
+        recognition.start();
+        isListening = true;
+        
+        // Update UI
+        document.getElementById('micBtn').classList.add('listening');
+        document.getElementById('micBtn').textContent = '⏹';
+        document.getElementById('text').classList.add('listening');
+        document.getElementById('status').textContent = '🎙️ Listening... (Click mic to stop)';
+        document.getElementById('status').classList.add('listening');
+        
+        console.log('🎤 Started listening');
+      } catch (error) {
+        console.error('Error starting recognition:', error);
+        document.getElementById('status').textContent = 'Failed to start microphone';
+      }
+    }
+
+    function stopListening() {
+      if (!recognition) return;
+      
+      try {
+        recognition.stop();
+        isListening = false;
+        
+        // Update UI
+        document.getElementById('micBtn').classList.remove('listening');
+        document.getElementById('micBtn').textContent = '🎤';
+        document.getElementById('text').classList.remove('listening');
+        document.getElementById('status').textContent = 'Stopped listening';
+        document.getElementById('status').classList.remove('listening');
+        
+        console.log('⏹ Stopped listening');
+      } catch (error) {
+        console.error('Error stopping recognition:', error);
+      }
+    }
+
+    // Submit button
+    document.getElementById('submitBtn').addEventListener('click', () => {
+      const text = document.getElementById('text').value.trim();
+      
+      if (!text) {
+        alert('Please enter text or use microphone');
+        return;
+      }
+
+      // Stop listening if active
+      if (isListening) {
+        stopListening();
+      }
+
+      console.log('Sending query:', text);
+      document.getElementById('answer').innerText = 'Processing...';
+      document.getElementById('submitBtn').disabled = true;
+
+      const form = new FormData();
+      form.append('text', text);
+
+      fetch('/process', { 
+        method: 'POST', 
+        body: form 
+      })
+        .then(res => {
+          if (!res.ok) throw new Error('Server error: ' + res.status);
+          return res.json();
+        })
+        .then(data => {
+          console.log('Response:', data);
+          document.getElementById('answer').innerText = data.answer || data.error || 'No response';
+          
+          if (data.audio) {
+            const audioEl = document.getElementById('audio');
+            audioEl.style.display = 'block';
+            audioEl.src = data.audio + '?t=' + Date.now();
+            audioEl.load();
+          }
+          
+          document.getElementById('submitBtn').disabled = false;
+          document.getElementById('status').textContent = 'Response received';
+        })
+        .catch(err => {
+          console.error('Error:', err);
+          document.getElementById('answer').innerText = 'Error: ' + err.message;
+          document.getElementById('submitBtn').disabled = false;
+          document.getElementById('status').textContent = 'Error occurred';
+        });
+    });
+
+    // Allow Enter to submit (Ctrl+Enter for new line)
+    document.getElementById('text').addEventListener('keydown', (e) => {
+      if (e.key === 'Enter' && !e.ctrlKey && !e.shiftKey) {
+        e.preventDefault();
+        document.getElementById('submitBtn').click();
+      }
+    });
+
+    console.log('Real-time speech recognition ready!');
+  </script>
+</body>
+</html>
