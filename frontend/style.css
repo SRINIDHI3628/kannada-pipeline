@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#map {
+  height: 500px;
+  width: 70%;
+  float: left;
+}
+
+#info {
+  width: 28%;
+  float: right;
+  padding: 10px;
+  border-left: 1px solid #ccc;
+}
