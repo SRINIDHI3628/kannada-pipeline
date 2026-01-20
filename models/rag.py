@@ -2,81 +2,123 @@ import os
 import numpy as np
 import torch
 import faiss
+import json
+from pathlib import Path
 from transformers import AutoTokenizer, AutoModel
+from sentence_transformers import SentenceTransformer
 
 print("Loading RAG model...")
 
 device = "cpu"
 
-# Use XLM-RoBERTa for multilingual embeddings
-# model_name = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
-model_name = "google/muril-base-cased"
+# Use MuRIL for multilingual embeddings
+model_name = 'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2'
 
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModel.from_pretrained(model_name).to(device)
-model.eval()
+model = SentenceTransformer(model_name, device="cpu")
+
+# Paths for fine-tuned model data
+EMBEDDINGS_FILE = Path("processed_data/embeddings.npy")
+SERVICES_FILE = Path("processed_data/services.json")
+DOCS_FILE = Path("data/docs.txt")
 
 def mean_pooling(model_output, attention_mask):
     """Mean pooling to get sentence embeddings"""
-    token_embeddings = model_output[0]
+    token_embeddings = model_output.last_hidden_state
     input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
-    return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(input_mask_expanded.sum(1), min=1e-9)
+    return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(
+        input_mask_expanded.sum(1), min=1e-9
+    )
+
+# def embed(text):
+#     """Generate embeddings for text using MuRIL"""
+#     encoded_input = tokenizer(
+#         text, 
+#         padding=True, 
+#         truncation=True, 
+#         max_length=512,
+#         return_tensors='pt'
+#     ).to(device)
+    
+#     with torch.no_grad():
+#         model_output = model(**encoded_input)
+    
+#     embeddings = mean_pooling(model_output, encoded_input['attention_mask'])
+    
+#     # Normalize embeddings
+#     embeddings = torch.nn.functional.normalize(embeddings, p=2, dim=1)
+    
+#     return embeddings[0].cpu().numpy()
 
 def embed(text):
-    """Generate embeddings for text"""
-    encoded_input = tokenizer(
-        text, 
-        padding=True, 
-        truncation=True, 
-        max_length=128,
-        return_tensors='pt'
-    ).to(device)
+    """Generate high-quality embeddings using SentenceTransformers"""
+    # This automatically handles tokenization, pooling, and normalization
+    return model.encode(text, normalize_embeddings=True)
+
+# Check if fine-tuned embeddings exist
+use_finetuned = False
+docs = []
+doc_embeddings = None
+index = None
+
+if EMBEDDINGS_FILE.exists() and SERVICES_FILE.exists():
+    print("🎯 Loading fine-tuned government services model...")
     
-    with torch.no_grad():
-        model_output = model(**encoded_input)
+    # Load pre-computed embeddings
+    doc_embeddings = np.load(EMBEDDINGS_FILE).astype("float32")
     
-    embeddings = mean_pooling(model_output, encoded_input['attention_mask'])
+    # Load services data
+    with open(SERVICES_FILE, "r", encoding="utf-8") as f:
+        services_data = json.load(f)
     
-    # Normalize embeddings
-    embeddings = torch.nn.functional.normalize(embeddings, p=2, dim=1)
+    # Extract text for retrieval
+    docs = [s["text"] for s in services_data]
     
-    return embeddings[0].cpu().numpy()
+    # Create FAISS index with L2 distance
+    dim = doc_embeddings.shape[1]
+    index = faiss.IndexFlatIP(dim)
+    index.add(doc_embeddings)
+    
+    use_finetuned = True
+    print(f"✅ Loaded {len(docs)} government services with fine-tuned embeddings")
+    
+else:
+    print("⚠️ Fine-tuned model not found, using basic docs...")
+    
+    # Fallback to basic docs.txt
+    if not DOCS_FILE.exists():
+        print(f"Warning: {DOCS_FILE} not found, creating sample...")
+        os.makedirs("data", exist_ok=True)
+        with open(DOCS_FILE, "w", encoding="utf-8") as f:
+            f.write("ನಮಸ್ಕಾರ! ನಾನು ಕನ್ನಡ AI ಸಹಾಯಕ.\n")
+            f.write("Hello! I am a Kannada AI assistant.\n")
+            f.write("ಬೆಂಗಳೂರು ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ.\n")
+            f.write("Bangalore is the capital of Karnataka.\n")
+    
+    docs = open(DOCS_FILE, encoding="utf-8").read().splitlines()
+    docs = [d.strip() for d in docs if d.strip()]
+    
+    if not docs:
+        docs = ["ಕ್ಷಮಿಸಿ, ಯಾವುದೇ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ. Sorry, no data available."]
+    
+    print(f"Loaded {len(docs)} basic documents")
+    print(f"Generating embeddings...")
+    
+    # Generate embeddings for basic docs
+    doc_embeddings_list = []
+    for i, doc in enumerate(docs):
+        if i % 10 == 0:
+            print(f"   Processing {i}/{len(docs)}...")
+        emb = embed(doc)
+        doc_embeddings_list.append(emb)
+    
+    doc_embeddings = np.vstack(doc_embeddings_list).astype("float32")
+    
+    # Create FAISS index
+    dim = doc_embeddings.shape[1]
+    index = faiss.IndexFlatIP(dim)
+    index.add(doc_embeddings)
 
-# Load knowledge base
-docs_path = "data/docs.txt"
-if not os.path.exists(docs_path):
-    print(f"Warning: {docs_path} not found, creating sample...")
-    os.makedirs("data", exist_ok=True)
-    with open(docs_path, "w", encoding="utf-8") as f:
-        f.write("ನಮಸ್ಕಾರ! ನಾನು ಕನ್ನಡ AI ಸಹಾಯಕ.\n")
-        f.write("Hello! I am a Kannada AI assistant.\n")
-        f.write("ಬೆಂಗಳೂರು ಕರ್ನಾಟಕದ ರಾಜಧಾನಿ.\n")
-        f.write("Bangalore is the capital of Karnataka.\n")
-
-docs = open(docs_path, encoding="utf-8").read().splitlines()
-docs = [d.strip() for d in docs if d.strip()]  # Remove empty lines
-
-if not docs:
-    docs = ["ಕ್ಷಮಿಸಿ, ಯಾವುದೇ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ. Sorry, no data available."]
-
-print(f"Loaded {len(docs)} documents")
-print(f"Generating embeddings...")
-
-# Generate embeddings for all documents
-doc_embeddings = []
-for i, doc in enumerate(docs):
-    if i % 10 == 0:
-        print(f"   Processing {i}/{len(docs)}...")
-    emb = embed(doc)
-    doc_embeddings.append(emb)
-
-doc_embeddings = np.vstack(doc_embeddings).astype("float32")
-
-# Create FAISS index (using inner product since embeddings are normalized)
-index = faiss.IndexFlatIP(doc_embeddings.shape[1])
-index.add(doc_embeddings)
-
-print(f"RAG ready with {len(docs)} documents")
+print(f"RAG ready with {len(docs)} documents (Fine-tuned: {use_finetuned})")
 
 def retrieve(query, top_k=1):
     """Retrieve most relevant document for query"""
@@ -85,15 +127,15 @@ def retrieve(query, top_k=1):
         q_emb = embed(query).astype("float32").reshape(1, -1)
         
         # Search for most similar documents
-        scores, indices = index.search(q_emb, top_k)
+        distances, indices = index.search(q_emb, top_k)
         
         # Get best match
         best_idx = indices[0][0]
-        best_score = scores[0][0]
+        best_distance = distances[0][0]
         best_match = docs[best_idx]
         
         print(f"Query: '{query}'")
-        print(f"Similarity score: {best_score:.4f}")
+        print(f"Distance: {best_distance:.4f}")
         print(f"Best match: {best_match[:100]}...")
         
         return best_match

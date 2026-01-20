@@ -1,0 +1,131 @@
+Department: Collegiate Education
+
+1. Application for Admission extract
+Eligibility: NA
+Supporting Document:
+1. ID proof
+2. Fee payment receipt
+Application Fee : Rs 0
+Service Charge (Free for Online Submission) : Rs 25
+Delivery Time (Days) : 5
+Procedure for applying:
+1. Application submission (Online, B1/K1 centres, CSC centres, AJSK centres, BapujiSevaKendras)
+2. The application is routed to Case Worker
+3. Verification by the Case Worker. Recommendations of the Case worker are sent to the Superintendent for review
+4. Verification by the Superintendent. Recommendations of the Superintendent are sent to the Principal for review
+5. Review by the Principal. Approve or reject the application request.
+
+2. Application for issue of Library No Due Certificate
+Eligibility: NA
+Supporting Document:
+1. ID proof
+2. Proof for no dues
+Application Fee : Rs 0
+Service Charge (Free for Online Submission) : Rs 25
+Delivery Time (Days) : 5
+Procedure for applying:
+1. Application submission (Online, B1/K1 centres, CSC centres, AJSK centres, BapujiSevaKendras)
+2. The application is routed to Librarian
+3. Verification by the Librarian. Recommendations of the Librarian are sent to the Principal for review
+4. Review by the Principal. Approve or reject the application request.
+
+3. Application for issue of No Due Certificate
+Eligibility: NA
+Supporting Document:
+1. ID proof
+2. NoC certificate
+Application Fee : Rs 0
+Service Charge (Free for Online Submission) : Rs 25
+Delivery Time (Days) : 5
+Procedure for applying:
+1. Application submission (Online, B1/K1 centres, CSC centres, AJSK centres, BapujiSevaKendras)
+2. The application is routed to Case Worker
+3. Verification by the Case Worker. Recommendations of the Case worker are sent to the Superintendent for review
+4. Verification by the Superintendent. Recommendations of the Superintendent are sent to the Principal for review
+5. Review by the Principal. Approve or reject the application request.
+
+4. Application for approval to obtain Provisional Degree Certificate
+Eligibility: NA
+Supporting Document:
+1. Proof of course completion
+Application Fee : Rs 0
+Service Charge (Free for Online Submission) : Rs 25
+Delivery Time (Days) : 7
+Procedure for applying:
+1. Application submission (Online, B1/K1 centres, CSC centres, AJSK centres, BapujiSevaKendras)
+2. The application is routed to Case Worker
+3. Verification by the Case Worker. Recommendations of the Case worker are sent to the Superintendent for review
+4. Verification by the Superintendent. Recommendations of the Superintendent are sent to the Principal for review
+5. Review by the Principal. Approve or reject the application request.
+
+5. Application for issue of Study / bonafide Certificate
+Eligibility: NA
+Supporting Document:
+1. ID proof
+2. Admission fee pay receipt
+3. Photocopy of markscard
+Application Fee : Rs 0
+Service Charge (Free for Online Submission) : Rs 25
+Delivery Time (Days) : 5
+Procedure for applying:
+1. Application submission (Online, B1/K1 centres, CSC centres, AJSK centres, BapujiSevaKendras)
+2. The application is routed to Case Worker
+3. Verification by the Case Worker. Recommendations of the Case worker are sent to the Superintendent for review
+4. Verification by the Superintendent. Recommendations of the Superintendent are sent to the Principal for review
+5. Review by the Principal. Approve or reject the application request.
+
+6. Application for issue of Transfer Certificate
+Eligibility: Student
+Supporting Document:
+1. No due certificate issued by the college
+2. Provisional Degree Certificate (PDC)
+3. TC Endorsement of Applicant
+Application Fee : null
+Service Charge (Free for Online Submission) : Rs. 25
+Delivery Time (Days) : 6
+Procedure for applying:
+1. Applicant needs to submit the application
+ .2. Review by Case worker
+  3. Application processing and Verification by Superintendant
+ 4. Verification and approval by Principal
+
+ 7. Application for IAS Coaching
+Eligibility: Citizens
+Supporting Document:
+1. Original registration copy
+2. Sanitary certificate issued by Corporation or Municipal medical officer
+3. Records and Registers maintained by the institution
+4. Details of other institutions run by the Education agency, if any
+5. Assets and liabilities including the investments in the banks and other commercial concerns
+6. Accomodation sketch
+plan of the building
+Application Fee : Rs.25000
+Service Charge (Free for Online Submission) : Rs.30
+Delivery Time (Days) : 40 days
+Procedure for applying:
+1. Applicant needs to submit the application
+2. Review by Case worker
+3. Verification by Superintendent
+4.Verification by Manager
+5.Verification by Assistant Director
+6. Verification and approval by Joint Director
+
+8. Application for MBA Coaching
+Eligibility: Citizens
+Supporting Document:
+1.Original registration copy
+2.Sanitary certificate issued by Corporation or Municipal medical officer
+3.Records and Registers maintained by the institution
+4.Details of other institutions run by the Education agency, if any
+5.Assets and liabilities including the investments in the banks and other commercial concerns
+6.Accomodation sketch plan of the building
+Application Fee : Rs.25000
+Service Charge (Free for Online Submission) : Rs.30
+Delivery Time (Days) : 30 days
+Procedure for applying:
+1.Applicant needs to submit the application
+2.Review by Case worker
+3.Verification by Superintendent
+4.Verification by Manager
+5.Verification by Assistant Director
+6.Verification and approval by Joint Director

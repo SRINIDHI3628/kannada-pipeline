@@ -1,0 +1,550 @@
+Department: Department of Electrical Inspectorate
+
+1. Payment of Electrical Tax - Licensees
+Eligibility: Appliacnts registered with the department as Licensees
+Supporting Document:
+1. Form B
+2. Form C
+3. Form D
+4. Government Order Copy
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 100
+Delivery Time (Days) : NA
+Procedure for applying:
+1. Applicant fills the form and attaches the mandatory annexures
+2. Department will process the application
+3. Applicant will get the Acknowledgment
+
+2. Payment of Electricity Tax - Non Licensees
+Eligibility: ಪರವಾನಗಿಗಳಿಲ್ಲದವರಿಗೆ (ನಾನ್ ಲೈಸೆನ್ಸೀ) ವಿದ್ಯುತ್ ತೆರಿಗೆ ಮರುಪಾವತಿಗಾಗಿ ಅರ್ಜಿ
+Supporting Document:
+NA
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 100
+Delivery Time (Days) : NA
+Procedure for applying:
+1. Applicant fills the form
+2. Department will process the application
+3. Applicant will get the Acknowledgment
+
+3. Appeal for Grievances
+Eligibility: Appliacnts registered with the department as Licensees and Non-Licensees
+Supporting Document:
+Order Copy
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 100
+Delivery Time (Days) : NA
+Procedure for applying:
+1. Applicant fills the appeal form
+2. Department will process the application
+3. Applicant will get the hearing date
+4. Once hearing is complete, applicant will get the order copy
+
+4. Registration for Cinema Operators Examination
+Eligibility: Citizens of India
+Supporting Document:
+1. Form A
+2. Appointment Letter for Apprenticeship from a cinema theatre in its letter head.
+3. ID Proof
+4. Address Proof
+5. School Transfer Certificate
+6. Educational Qualification (SSLC marks card)
+Application Fee : Rs 20
+Service Charge (Free for Online Submission) : Rs. 30
+Delivery Time (Days) : 15
+Procedure for applying:
+1. Applicant fills the form, attaches the documents and pay requisite fee online
+2. Applicant will get the Acknowledgment
+3. Department will process the application
+4. Applicant will receive the registration number/endorsement from department
+
+5. Issue of Hall Ticket and Competency Certificate for Cinema Operator Examination
+Eligibility: Citizens of India
+Supporting Document:
+1. Experience Letter as Apprentice
+2. School Transfer Certificate
+3. Conduct and Service Certificate
+4. Previous Hall Ticket, if applicable
+Application Fee : Rs.500
+Service Charge (Free for Online Submission) : Rs 25
+Delivery Time (Days) : NA
+Procedure for applying:
+1. Applicant fills the form, attaches the documents and pay requisite fee online
+2. Applicant will get the Acknowledgment
+3. Department will process the application
+4. Applicant will receive the hall ticket/certificate/endorsement
+
+6. Issue of Duplicate Cinema Operator License
+Eligibility: Citizens of India
+Supporting Document:
+1. FIR (Original)
+2. Affidavit
+3. Original License / Report from EI
+4. ID Proof
+5. Requisition Letter of Cinema Operator
+Application Fee : Rs 50
+Service Charge (Free for Online Submission) : Rs 25
+Delivery Time (Days) : 10
+Procedure for applying:
+1. Applicant fills the form, attaches the documents and pay requisite fee online
+2. Applicant will get the Acknowledgment
+3. Department will process the application
+4. Applicant will receive the license/endorsement from department
+
+7. Renewal of Cinema Operators License
+Eligibility: Citizens of India
+Supporting Document:
+1. Relieving Letter in theatre letter head (In case of Change in theatre) (Non-mandatory)
+2. Physical Fitness Certificate (Non- mandatory)
+3. Cinema Operator License
+4. Letter of appointment as Cinema Operator in letter head (Non-Mandatory)
+5. Requisiton letter of Cinema Operator
+Application Fee : Rs.500
+Service Charge (Free for Online Submission) : Rs 25
+Delivery Time (Days) : 10
+Procedure for applying:
+1. Applicant fills the form, attaches the documents and pay requisite fee online
+2. Applicant will get the Acknowledgment
+3. Department will process the application
+4. Applicant will receive the license/endorsement from department
+
+8. Endorsement for change of cinema theatre in Cinema Operator License
+Eligibility: Citizens of India
+Supporting Document:
+1. Relieving Letter in theatre letter head (In case of Change in theatre) (Non-mandatory)
+2. Requisiton letter of Cinema Operator
+3. Appointment Letter of new cinema
+Application Fee : Rs.100
+Service Charge (Free for Online Submission) : Rs 25
+Delivery Time (Days) : NA
+Procedure for applying:
+1. Applicant fills the form, attaches the documents and pay requisite fee online
+2. Applicant will get the Acknowledgment
+3. Department will process the application
+4. Applicant will receive the license/endorsement from department
+
+9. a) Lift/Escalator/Passenger conveyor Inspection & recommendation by ACEI/DCEI
+b) Grant of Lift/Escalator/Passenger conveyor running license by Chief Electrical Inspector to Govt.
+Eligibility: Any person or Company who intends to get the Lift/Escalator/Passenger Conveyors erected in the State of Karnataka
+Supporting Document:
+Application from Owner in Form B-1and enclose the following,Completion report of the Registered person in respect of Lift in Form-B2 and in respect of escalator and passenger conveyor in Form-B3
+Copy of manufacturer test certificates for the following, namely:-
+In case of Lifts:-
+a. motor or machine.
+b. over speed governor .
+c. controller.
+d. buffers.
+e. door drive.
+f. lift Car and Landing door fire rating.
+g. main hoist and governor rope.
+f. electrical travelling cable.
+In case of Escalators or Passenger conveyors:-
+a. motor and machine.
+b. over speed governor.
+c. controller.
+Enclose original recipt or challan of Rs 2500/- per lift and Rs.25/- application fee
+Application Fee : Rs.25/-(Application Fee) + Rs.2500/-(per lift/escalator/passenger conveyor)
+Service Charge (Free for Online Submission) : Rs.2500/-(per lift/escalator/passenger conveyor)
+Delivery Time (Days) : 20 Days
+Procedure for applying:
+1 - Applicant will log in to service of oficial website www.ksei.gov.in
+2 - Departmental webpage will open showing the details of service, details of scanned documents requires , service process.
+3 - Next enter the mobile number and apllicant will get the OTP which is to be entered. Once OTP is entered the application get opened.
+4 - Applicant need to fill all fields, upload all the requested scanned documents and make online payment of fees then save and submit
+5-After successful submission of application , applicant will get the acknowledgement.
+6 - The concerned AEI will receive the application online and verifies documents , test certificates , notes his/her observations and generates the report and submits the same online to Additional Chief Electrical Inspector/Deputy Chief Electrical Inspector for inspection
+7 - ACEI/DCEI reviews the report and the application submitted . If application found in order , the ACEI/DCEI will update the inspection date.On the scheduled dates the authority will conduct the inspection.If observations are found during the inspection , defect leter will be issued to the applicant and if installation is in confirmity with Act abd Rules , ACEI/ DCEI will prepare recommendation letter to CEIG for issue of License.
+8 - Applicant shall attend the defects and submit the compliance report for having attended the defects and submit the compliance report for having attended the defects intimated by this department through online.ACEI/DCEI will visit the spot and verify the defects . And will recommend to CEIg for issue of License.
+9 - AEI at Head office will receive the recommendation letter from ACEI/ DCEI online. AEI will prepare the draft of the License and will sent to DEI for review.
+10 - CEIG will issue the licencse
+
+10. Approval of drawings of the electrical installation
+Eligibility: Electrical Installation in the jurisdiction of the state of Karnataka(Electrical Installation belonging to Government of India and its undertakings are excluded).
+Supporting Document:
+1) Affidavit-8 and Form-Z
+2) Power Sanction letter, Estimate and sketch
+3) Electricals Drawings showing SLD, plan and elevation.
+Note:- Prescribed drawing scrutiny fees shall be paid
+Application Fee : NA
+Service Charge (Free for Online Submission) : https://ksei.gov.in/eisoft/Documents/fee-HT.pdf
+Delivery Time (Days) : 25 days-Head Office & 20 days Field Office Days
+Procedure for applying:
+1. Citizen will log in to service of official website www.ksei.gov.in website. Citizens are requested to provide the correct email ID for further communication process.
+2. Use the created User ID and password to login into the website.
+3. After login, Click on Approval of Electrical Installation button then select the option Application for Drawing Approvals / installation approval as per the requirement.
+4. While clicking on Application for Drawing Approvals / Installation approval, Applicants are requested to read the Annexure(s) carefully before entering to fill the details
+5. Details of Fee payable for approval of drawings/ Installation approval will be displayed automatically based on the inputs of Installation.
+6. The Applicant shall remit the requisite fee through Online Payment / Delivery Challan
+7. Applicants shall upload all the required documents/ drawings by clicking browse and upload option.
+8. Before final submission of the application, Applicant are requested to check the details if they have entered correctly. In case if they are not sure about the details they can save the application and then submit the application once confirmed
+9. Confirmation message will be displayed after successful submission of application.
+10. To view application status click on Application Status link available in the home page.
+11. Approving authority will start the process at their end as per the uploaded drawings.
+12. After verification of documents and drawings by the Approving authority, if it is in order approval will be issued. If any application is not in order any clarification/shortfall in the documents/drawings same will be intimated.
+13. If applicant complies for clarification sought within 15days, same will be processed and approval will be issued.
+14. If the applicant does not comply completely to the clarifications within the stipulated 15days, application will be rejected with the reason for rejection within 30 working days from the date of receipt of clarification and drawing scrutiny fees paid will be forfeited
+15. Once the drawings are approved by the authority the same can be viewed /downloaded on-line in My Application Status button available in the Consumer login
+
+11. Electrical Supervisor General Permits Endorsement
+Eligibility: It is Mandatory to appoint the Electrical Supervisor General Permits of appropriate Grades by the Electrical contractor after Obtaining Electrical Contractor license and before commencement of electrical installation work shall get endorsement of the Electrical Supervisor General Permits
+Supporting Document:
+Endorsement application shall be accompanied with the fallowing ( under Rule 35)
+a) Scanned copy of Original electrical contractor license .
+b) Scanned copy of Original Electrical Supervisor permits(General)
+c) Scanned copy of Form-X to be uploaded
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs.50 /- per endorsement
+Delivery Time (Days) :
+Procedure for applying:
+1.APPLICANT SUBMIT ONLINE APPLICATION
+2.APPLICANT UPLOADS REQUIRED SCANNED DOCUMENTS
+3.PAY FEES ON LINE
+4.APPLICANT PAY FEES ONLINE
+5.APPLICATION VERIFIED AND APPROVED AT DEI OFFICE
+6.ENDORSEMENT CERTIFICATE IS ISSUED / SENT ON LINE
+
+12. Electrical Supervisor Mines Permits Endorsement
+Eligibility:
+Supporting Document:
+Endorsement application shall be accompanied with the fallowing ( under Rule 35)
+a) Scanned copy of Original electrical contractor license .
+b) Scanned copy of Original Electrical Supervisor permits(General)
+c) Scanned copy of Form-X to be uploaded
+Application Fee :
+Service Charge (Free for Online Submission) : NA)
+Delivery Time (Days) :
+Procedure for applying:
+
+13. Grant of Commissioning Approval
+Eligibility: Electrical Installation in the jurisdiction of the state of Karnataka(Electrical Installation belonging to Government of India and its undertakings are excluded).
+Supporting Document:
+1) Form-B1(Electrical Contractor Work Completion and test report), Form-A1( Report of Commencement of work)
+2) Manufacturer Test report of Equipments
+Note:- Prescribed inspection fees shall be paid
+Application Fee : NA
+Service Charge (Free for Online Submission) : Will be Intimated in drawing approval letter depending upon the capacity of the installation
+Delivery Time (Days) : 30 days-Head Office & 30 days Field Office Days
+Procedure for applying:
+1.Use the created User ID and password to login into the website.
+2. After login, click on Approval of Electrical Installation button then select the option Application for installation approval as per the requirement.
+3. Applicants shall upload all the required documents/ test reports by clicking browse and upload option.
+4. The Applicant shall remit the requisite fee through Online Payment / Delivery Challan
+5. Confirmation message will be displayed after successful submission of application.
+6. To view application status click on Application Status link available in the home page.
+7. Approving authority will start the process at their end as per the uploaded documents/test reports.
+8. After verification of documents by the Approving authority, if it is in order date of inspection will be intimated. If any application is not in order any clarification/shortfall in the documents same will be intimated.
+9. If applicant complies for clarification sought within 7 days same will be processed for inspection or application will be rejected with the reason for rejection within 30 working days from the date of receipt of clarification and inspection fees paid will be forfeited
+10. Upon inspection, if the installation is found to be in general conformity with CEA(Measures Relating to Safety and Electric Supply) Regulation, 2010, approval will be issued. If not observations will be intimated.
+11. If the applicant does not comply completely to the observations made during inspection within the stipulated 15 days, application will be rejected with the reason for rejection within 30 working days from the date of receipt of clarification and inspection fees paid will be forfeited
+12. Once the installation approved by the authority the same can be viewed /downloaded on-line in My Application Status button available in the Consumer login
+
+14. Issue Electrical Contractor Licenses
+Eligibility: The citizen should have passed 10th standard, BE in electrical and electronics engineering (EEE) or Diploam in Electrical and Electronics
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/ElectricalContractorLicense-Fresh.pdf
+Application Fee : NA
+Service Charge (Free for Online Submission) : Issuance: Rs.3025/- Class I & Rs.2025/- Class II & Rs.1025/- Class III(Indivisual,Company,PartnerShip) & Rs.10025/- SuperGrade(Indivisual,Company,PartnerShip)
+Renewal: Rs.3025/- ClassI & Rs.2025/- ClassII & Rs.1025/- ClassIII & Rs.10025/- SuperGrade(Indivisual,Company,PartnerShip) Rs 500 for delayed submission
+Delivery Time (Days) : 30 Days
+Procedure for applying:
+Issue:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process is shown, and make online payment of Fees
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents( inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgment. With a SMS giving get Date, Time and Day to go a particular DEI Office to get verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply,file will be forwarded to Head Office by the DEI, non complying file treated as pending with applicant
+8 - On verification at Head Office the file will be submitted to Board for clearence
+9 - On approval of Board the Fresh Electrical Licenses will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months. 11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+Renewal:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents( inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately 7 - If applicant comply the file will be forwarded to Head Office by the DEI, non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Electrical Licenses will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+
+15. Issue Electrical Supervisor General Permits
+Eligibility: Issue: Those who has passed BE(E&E)orDiploma in Electrical Engineering Holders only/THOSE WHO HAS passed Electrical Supervisor Gr 2 Permit Exam Conducted By the LA&EB Board
+Renewal: THOSE WHO HAS VALID Electrical Supervisors(General)Grade I Permit.(Grade II)THOSE WHO HAS valid Electrical Supervisors (General) Grade II Permit
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/SupervisorGeneralPermit.pdf
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs.525
+Delivery Time (Days) : 90 Days
+Procedure for applying:
+Issue:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Fresh Elec Supervisor Gen Permit is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents( inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments. 5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI, non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Fresh Elec Supervisor Gen Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+Renewal:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Electrical Supervisor General Permit Renewal is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant 8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Electrical Supervisor General Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months. 11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+
+16. Issue Electrical Supervisor Mines Permits
+Eligibility: Issue: THOSE WHO HAS passed BE(E&E)or Diploma in Electrical Engineering Holders with Mining Examination Pass certificate only.
+Renewal: THOSE WHO HAS Valid Electrical Supervisors (Mines) Grade I Permit
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/SupervisorMinesPermit.pdf
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs.525
+Delivery Time (Days) : 90 Days
+Procedure for applying:
+Issue:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Fresh Electrical Supervisor Mine Permit is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requisite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Fresh Electrical Supervisor Mine Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+Renewal:
+1 - Citizen will log in to service of official website www.ksei.gov.in website. 2 - Deparmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Elec Supervisor Mines Permit Renewal is shown 3 - Citizen fill all mandatory or non- mandatory fields, upload all the requisite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Elec Supervisor Mines Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+
+17. Issue Special Wiring Permits
+Eligibility: Issue: Regd Company having Qualified Engineers and Wiremen to get ther electrical works only
+Renewal: Company shall Have a Valid Special Wiring Permit EHV/HV
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/Special%20Wiring%20Permit%20Fresh.pdf
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs.10025/-(EHV) or Rs 3025/-(HV) (Rs 500/- for delayed submission this is applicable only for renewal only)
+Delivery Time (Days) : 30 Days
+Procedure for applying:
+Issue:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Fresh Special Wiring Permit is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Fresh Special Wiring Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+Renewal:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Special Wiring Permit Renewal is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Special Wiring Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+
+18. Issue Wiremen Permits
+Eligibility: Issue: (Grade1)THOSE WHO HAS ITI Electrician or JOC Electrical.(Grade2)THOSE WHO HAS passed Wiremen Gr 2 Permit Exam Conducted By the LA & EB Board. Renewal: THOSE WHO HAS VALID Wiremen Grade II Permit
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/Electrical%20Wiremen%20Permit.pdf
+Application Fee : NA.
+Service Charge (Free for Online Submission) : Rs.225
+Delivery Time (Days) : 90 Days
+Procedure for applying:
+Issue:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Fresh Wiremen Permit is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Fresh Wiremen Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5. Renewal:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Wiremen Permit Renewal is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Wiremen Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+
+19. Permission to Erect New Lift/Escalator/Passenger conveyor or making addition/alteration to the existing Lift, escalator & passenger conveyor
+Eligibility: Any person or Company who intends to get the Lift/Escalator/Passenger Conveyors erected in the State of Karnataka
+Supporting Document:
+1. Applicant will log in to service of oficial website www.ksei.gov.in
+2. Departmental webpage will open showing the details of service, details of scanned documents requires , service process.
+3. Next enter the mobile number and apllicant will get the OTP which is to be entered. Once OTP is entered the application get opened.
+4. Applicant need to fill all fields, upload all the requested scanned documents and make online payment of fees then save and submit
+5. After successful submission of application , applicant will get the acknowledgement.
+6. The concerned AEI will receive the application online and verifies the drawings and documents, notes his/her observations and generates the report and submits the same online to Additional Chief Electrical Inspector/Deputy Chief Electrical Inspector for review and approval
+7. ACEI/DCEI reviews the report and the application submitted . If application found in order , the ACEI/DCEI approves the permission by generating the erction permission letter . If application is not in order , ACEI/DCEI will issue defect letter seeking additional documents by the applicant.
+8. Erection permission / defect letterwill be sent to Applicant
+Application Fee : Rs.25/-(Application Fee) + Rs.1000/-(per lift/escalator/passenger conveyor)
+Service Charge (Free for Online Submission) : Rs.1000/-(per lift/escalator/passenger conveyor)
+Delivery Time (Days) : 20 Days
+Procedure for applying:
+Erection:
+1 - Applicant will log in to service of oficial website www.ksei.gov.in
+2 - Departmental webpage will open showing the details of service, details of scanned documents requires , service process.
+3 - Next enter the mobile number and apllicant will get the OTP which is to be entered. Once OTP is entered the application get opened. 4 - Applicant need to fill all fields, upload all the requested scanned documents and make online payment of fees then save and submit
+5 - After successful submission of application , applicant will get the acknowledgement.
+6 - The concerned AEI will receive the application online and verifies the drawings and documents, notes his/her observations and generates the report and submits the same online to Additional Chief Electrical Inspector/Deputy Chief Electrical Inspector for review and approval
+7 - ACEI/DCEI reviews the report and the application submitted . If application found in order , the ACEI/DCEI approves the permission by generating the erction permission letter . If application is not in order , ACEI/DCEI will issue defect letter seeking additional documents by the applicant.
+8 - Erection permission / defect letterwill be sent to Applicant
+
+20. Wiremen Permits Endorsement
+Eligibility: It is Mandatory to appoint the Electrical wiremen of appropriate Grades by the Electrical contractor after Obtaining Electrical Contractor license and before commencement of electrical installation work shall get endorsement of the Electrical wiremen.
+Supporting Document:
+Endorsement application shall be accompanied with the fallowing ( under Rule 35)
+a) Scanned copy of Original electrical contractor license.
+b) Scanned copy of Original Electrical Wiremen permits.
+c)Scanned copy of Form-X to be uploaded
+Application Fee : NA.
+Service Charge (Free for Online Submission) : Rs.50 /- per endorsement
+Delivery Time (Days) : To be filled by dept.
+Procedure for applying:
+1.APPLICANT SUBMIT ONLINE APPLICATION
+2.APPLICANT UPLOADS REQUIRED SCANNED DOCUMENTS
+3.PAY FEES ON LINE
+4.APPLICANT PAY FEES ONLINE
+5.APPLICATION VERIFIED AND APPROVED AT DEI OFFICE
+6.ENDORSEMENT CERTIFICATE IS ISSUED / SENT ON LINE
+
+21. Renewal of Electrical Contractor Licenses
+Eligibility: The citizen should have passed 10th standard, BE in electrical and electronics engineering (EEE) or Diploam in Electrical and Electronics
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/ElectricalContractorLicense-Fresh.pdf
+Application Fee : NA
+Service Charge (Free for Online Submission) : Renewal: Rs.3025/- ClassI & Rs.2025/- ClassII & Rs.1025/- ClassIII & Rs.10025/- SuperGrade(Indivisual,Company,PartnerShip) Rs 500 for delayed submission
+Delivery Time (Days) : 90 Days
+Procedure for applying:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents( inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI, non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Electrical Licenses will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+
+22. Renewal of Electrical Supervisor General Permits
+Eligibility: Renewal: THOSE WHO HAS VALID Electrical Supervisors(General)Grade I Permit.(Grade II)THOSE WHO HAS valid Electrical Supervisors (General) Grade II Permit
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/SupervisorGeneralPermit.pdf
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs.525
+Delivery Time (Days) : 90 Days
+Procedure for applying:
+Renewal:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Electrical Supervisor General Permit Renewal is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Electrical Supervisor General Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+
+23. Renewal of Electrical Supervisor Mines Permits
+Eligibility: Issue: THOSE WHO HAS passed BE(E&E)or Diploma in Electrical Engineering Holders with Mining Examination Pass certificate only.
+Renewal: THOSE WHO HAS Valid Electrical Supervisors (Mines) Grade I Permit
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/SupervisorMinesPermit.pdf
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs.525
+Delivery Time (Days) : 90 Days
+Procedure for applying:
+Renewal:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Deparmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Elec Supervisor Mines Permit Renewal is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requisite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Elec Supervisor Mines Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+
+
+24. Renewal of Special Wiring Permits
+Eligibility: Issue: Regd Company having Qualified Engineers and Wiremen to get ther electrical works only
+Renewal: Company shall Have a Valid Special Wiring Permit EHV/HV
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/Special Wiring Permit Fresh.pdf
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs.10025/-(EHV) or Rs 3025/-(HV) 
+(Rs 500/- for delayed submission this is applicable only for renewal only)
+Delivery Time (Days) : 90 Days
+Procedure for applying:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Special Wiring Permit Renewal is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Special Wiring Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+
+25. Renewal of Wiremen Permits
+Eligibility: Issue: (Grade1)THOSE WHO HAS ITI Electrician or JOC Electrical.(Grade2)THOSE WHO HAS passed Wiremen Gr 2 Permit Exam Conducted By the LA & EB Board.
+Renewal: THOSE WHO HAS VALID Wiremen Grade II Permit
+Supporting Document:
+https://ksei.gov.in/eisoft/Documents/Electrical Wiremen Permit.pdf
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs.225
+Delivery Time (Days) : 90 Days
+Procedure for applying:
+1 - Citizen will log in to service of official website www.ksei.gov.in website.
+2 - Departmental web page showing citizen preparedness, documents to be scanned, Fees to be paid, service delivery period and service process Wiremen Permit Renewal is shown
+3 - Citizen fill all mandatory or non- mandatory fields, upload all the requsite scanned documents(inclusive of list of testing instruments), and make on line payment of Fees.
+4 - After successive submission of application citizen will get an acknowledgement. With a SMS giving get Date, Time and Day to go a particular DEI Office to get Verification of original documents scanned and Instruments.
+5 - After Verification of documents and instrument by the DEI, if all documents are in order the file will be forwarded to Head Office
+6 - If any application is not in order DEI will hold file and a SMS alert will be sent to applicant to comply immediately
+7 - If applicant comply the file will be forwarded to Head Office by the DEI,non complying file will be treated as pending with applicant
+8 - On verification at Head Office the file will be submited to Board for clearence
+9 - On approval of Board the Renewed Wiremen Permit will get printed and sent to citizen
+10 - Once the license is granted, application for renewal shall be submitted three clear months before the expiry of the license but not before five clear months.
+11 - Application may be accepted two clear months before the date of expiry of the license, provided the applicant remits the penal fee as detailed in Annexure-5.
+

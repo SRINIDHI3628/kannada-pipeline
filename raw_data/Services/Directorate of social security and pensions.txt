@@ -1,0 +1,234 @@
+Department: Directorate of social security and pensions
+
+1. Manaswini Yojane
+Eligibility: Women from BPL family aged above 40 to 64 years
+Supporting Document:
+1.Applicant Photo
+2.Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6.Age Certificate
+7.Income Certificate
+8.Address Proof
+9.Bank Account(Passbook FirstPage)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 30
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+2. Anthya Samskara Yojane
+Eligibility: NA
+Supporting Document:
+1.Applicant Photo
+2.Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6.Age Certificate
+7.Income Certificate
+8.Address Proof
+9.Bank Account(Passbook FirstPage)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 30
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+3. Acid Victim Pension
+Eligibility: NA
+Supporting Document:
+1.Applicant Photo
+2.Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6.Age Certificate
+7.Income Certificate
+8.Address Proof
+9.Bank Account(Passbook FirstPage)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 35
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+4. Farmer Widow Pension
+Eligibility: Farmer Widow
+Supporting Document:
+1.Applicant Photo
+2.Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6.Age Certificate
+7.Income Certificate
+8.Address Proof
+9.Bank Account(Passbook FirstPage)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 30
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+5. Endosulphin Victim Pension
+Eligibility: Endosulfan victims
+Supporting Document:
+1.Applicant Photo
+2.Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6.Age Certificate
+7.Income Certificate
+8.Address Proof
+9.Bank Account(Passbook FirstPage)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 30
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+
+6. Physically Handicapped Pension
+Eligibility: People Below Poverty line With Disability above 40 Percentage
+Supporting Document:
+1.Applicant Photo
+2. Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6.Age Certificate
+7.Address Proof
+8. Bank Account (Passbook First Page)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 35
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+7. Destitute Widow Pension sanction
+Eligibility: Citizens in need of this service
+Supporting Document:
+1.Applicant Photo
+2.Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6. Age Certificate
+7.Income Certificate
+8.Husband's Death Certificate
+9.Address Proof
+10.Bank Account(Passbook FirstPage)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 35
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+8. Sandhya Suraksha Yojane
+Eligibility: People Below Poverty line / Family income of Below Rs/-20,000 Per Annum. Age above 65 years
+Supporting Document:
+1.Applicant Photo
+2.Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6. Age Certificate
+7.Income Certificate
+8.Husband's Death Certificate
+9.Address Proof
+10.Bank Account(Passbook FirstPage)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 30
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+9. National Family Benefit Scheme
+Eligibility: NA
+Supporting Document:
+1.Applicant Photo
+2.Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6. Age Certificate
+7.Income Certificate
+8.Husband's Death Certificate
+9.Address Proof
+10.Bank Account(Passbook FirstPage)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 30
+Delivery Time (Days) : 70
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+10. Indira Gandhi National Old Age Pension
+Eligibility: Below Poverty line Aged above 60 years
+Supporting Document:
+1.Applicant Photo
+2.Ration Card
+3.EPIC
+4.ID Proof
+5.Residence Certificate
+6. Age Certificate
+7.Income Certificate
+8.Husband's Death Certificate
+9.Address Proof
+10.Bank Account(Passbook FirstPage)
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 25
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
+
+11. Maithri Scheme
+Eligibility: Transgenders below Poverty line aged 25 to 64 years
+Supporting Document:
+1.Address Proof
+2.Bank Account(Passbook FirstPage)
+3.Ration Card
+4.EPIC
+5.ID Proof
+6.Medical Certificate
+7.Transgender Medical Certificate
+Application Fee : NA
+Service Charge (Free for Online Submission) : Rs. 30
+Delivery Time (Days) : 45
+Procedure for applying:
+1. Applicant logs into Seva Sindhu portal or approaches CSC operator.
+2. Applicant/CSC Operator provides the user credentials
+3. Applicant submits the application on Seva Sindhu portal/CSC Operator submits on behalf of applicant, along with necessary supporting documents and makes the payment for the service.
+4. The approving authority approves and applicant collects the digitally signed certificate or the approving authority rejects and applicant collects the endorsement stating reasons for rejection
